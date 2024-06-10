@@ -16,7 +16,7 @@
 
 
 }
-
+/*HEADER*/
 .menosuno{
     background-color: #FFFFFF;
     display: flex;
@@ -47,11 +47,12 @@ nav a:hover{
     transition: .1s;
 }
 
-
+/*BODY*/
+/*SECTIONUNOHERO*/
 
 .uno{
     display: flex;
-    background-color: gray;
+    background-color:#F5F5F5;
     justify-content: space-between;
 }
 
@@ -137,3 +138,79 @@ button{
     margin-top: 80px;
     margin-bottom: 80px;
 }
+
+/*SECTIONDOS*/
+
+.dos{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-color: #F5F5F5;
+    height: 800px;
+
+}
+
+.midescripcion h2{
+    /*border: solid greenyellow;*/
+    font-family: "Poppins", sans-serif;
+    font-size: 45px;
+    font-weight: 500;
+    padding-top: 50px;
+    padding-bottom: 10px;
+    color: #009688;
+
+}
+
+.midescripcion p{
+    /*border: solid brown;*/
+    font-family: "Poppins", sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+    color: #3A3A3A;
+    padding: 0px 60px;
+    padding-bottom: 30px;
+
+}
+
+.conocimientos{
+    display: flex;
+    justify-content: center;
+    
+    
+}
+
+.box{
+    /*border: solid orange;*/
+    width: 200px;
+    height: 370px;
+    margin: 0px 35px;
+    line-height: 20px;
+    border-radius: 25px;
+    box-shadow: 5px 5px 30px rgba(0,0,0,.2);
+}
+
+.box img{
+    width: 170px;
+    height: 170px;
+    border-radius: 25px;
+    padding-top: 15px;
+}
+
+.box h3{
+    margin: 5px 8px;
+    font-family: "Poppins", sans-serif;
+    color: #009688;
+    font-weight: 500;
+
+}
+
+.box p{
+    margin: 0px 8px;
+    font-family: "Poppins", sans-serif;
+    color: #3A3A3A;
+    font-weight: 410;
+
+}
+
+/*SECTIONTRES*/
+
