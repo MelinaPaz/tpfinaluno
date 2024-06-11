@@ -14,3 +14,6 @@
 - <b>Sobre mí</b>: Una breve descripcion sobre mis objetivos y conocimientos.
 - <b>Proyectos</b>: Son vistas previas de algunos proyectos que voy realizando.
 - <b>Contactame</b>: Contiene informacion de contacto asi como un formulario para dejar un mensaje.
+
+<h2>⚡ Enlace directo:</h2>
+▶︎▶︎<a href="https://melinapaz.github.io/tpfinaluno/">Mi Porfolio</a>◀︎◀︎
