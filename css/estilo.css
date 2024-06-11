@@ -201,7 +201,7 @@ button{
 .boxsdos{
     /*border: solid orange;*/
     width: 240px;
-    height: 340px;
+    height: 370px;
     margin: 0px 33px;
     line-height: 20px;
     border-radius: 25px;
@@ -212,7 +212,7 @@ button{
     width: 210px;
     height: 150px;
     margin-top: 15px;
-    /*border: 1px solid #EAE8E8;*/
+    border: 1px solid #EAE8E8;
     border-radius: 25px;
 }
 
