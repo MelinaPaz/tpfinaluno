@@ -70,20 +70,22 @@
     display: flex;
     background-color:#F5F5F5;
     justify-content: space-between;
+    padding-bottom: 95px;
 }
 
 .contenedortextoizquierda{
     /*border: solid red;*/
     margin-left: 90px;
-    margin-top: 90px;
+    margin-top: 100px;
     margin-bottom: 80px;
 }
 
 .titulosaludo{
     font-family: "Bubblegum Sans", sans-serif;
     color: #3A3A3A;
-    padding-bottom: 5px;
+    padding-bottom: 8px;
     font-size: 45px;
+    font-weight: 595;
 
 }
 
@@ -92,10 +94,10 @@
 
 }
 
-.textoizquierda h1{
+.nombrecompleto{
     font-family: "Poppins", sans-serif;
     color: #009688;
-    padding-bottom: 5px;
+    padding-bottom: 15px;
     font-size: 70px;
     font-weight: 600;
 
@@ -104,7 +106,7 @@
 .textoizquierda p{
     font-family: "Poppins", sans-serif;
     color: #3A3A3A;
-    padding-bottom: 5px;
+    padding-bottom: 15px;
     font-size: 30px;
     font-weight: 500;
     
@@ -127,7 +129,7 @@ button{
     font-size: 25px;
     border-radius: 5px;
     cursor:pointer;
-    margin-bottom: 30px;
+    margin-bottom: 60px;
 
 }
 
@@ -173,7 +175,7 @@ button{
     font-size: 45px;
     font-weight: 500;
     padding-top: 50px;
-    padding-bottom: 10px;
+    padding-bottom: 30px;
     color: #009688;
 
 }
@@ -198,19 +200,20 @@ button{
 
 .boxsdos{
     /*border: solid orange;*/
-    width: 250px;
-    height: 350px;
-    margin: 0px 35px;
+    width: 240px;
+    height: 340px;
+    margin: 0px 33px;
     line-height: 20px;
     border-radius: 25px;
     box-shadow: 5px 5px 30px rgba(0,0,0,.2);
 }
 
 .boxsdos img{
-    width: 220px;
-    height: 170px;
+    width: 210px;
+    height: 150px;
+    margin-top: 15px;
+    /*border: 1px solid #EAE8E8;*/
     border-radius: 25px;
-    padding-top: 15px;
 }
 
 .boxsdos h3{
@@ -218,6 +221,7 @@ button{
     font-family: "Poppins", sans-serif;
     color: #009688;
     font-weight: 500;
+    padding: 5px;
 
 }
 
@@ -258,10 +262,12 @@ button{
 }
 
 .boxstres img{
-    width: 170px;
+    width: 270px;
     height: 170px;
+    margin: 15px;
     border-radius: 25px;
-    padding-top: 15px;
+    /*border: 1px solid;*/
+    cursor: pointer;
 }
 
 /*SECTIONCUATRO*/
