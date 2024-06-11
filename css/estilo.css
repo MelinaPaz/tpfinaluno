@@ -19,12 +19,15 @@
 
 }
 /*HEADER*/
+
 .menosuno{
     background-color: #FFFFFF;
     display: flex;
     justify-content: space-between;
     height: 120px;
     align-items: center;
+    border-bottom: 1px solid #7D7C7C;
+
 
 }
 
@@ -43,9 +46,10 @@
     font-family: "Poppins", sans-serif;
     color: #3A3A3A;
     font-size: 20px;
+    font-weight: 500;
     margin-right: 40px;
     align-items: center;
-    padding: 20px;
+    padding: 15px 25px;
     
 }
 
@@ -116,6 +120,7 @@
 
 button{
     background-color: #009688;
+    font-family: "Poppins", sans-serif;
     color: #FFFFFF;
     border: none;
     padding: 15px 25px;
